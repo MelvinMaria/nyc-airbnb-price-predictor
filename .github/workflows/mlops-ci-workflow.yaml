@@ -25,12 +25,12 @@ jobs:
         run: |
           python src/data/processor.py \ 
             --input data/raw/AB_NYC_2019.csv \
-            --output data/processed/AB_NYC_2019_cleaned.csv
+            --output data/processed/AB_NYC_2019_quality_assessed.csv
 
       - name: Run Feature Engineering
         run: |
           python src/features/engineer.py \
-            --input data/processed/AB_NYC_2019_cleaned.csv \
+            --input data/processed/AB_NYC_2019_quality_assessed.csv \
             --output data/processed/AB_NYC_2019_feature_engineered.csv \
             --preprocessor models/trained/preprocessor.pkl
 
