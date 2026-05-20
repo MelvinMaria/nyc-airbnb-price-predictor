@@ -23,31 +23,31 @@ jobs:
 
       - name: Run Data Processing
         run: |
-          python src/data/processor.py \ 
-            --input data/raw/AB_NYC_2019.csv \
+          python src/data/processor.py\
+            --input data/raw/AB_NYC_2019.csv\
             --output data/processed/AB_NYC_2019_quality_assessed.csv
 
       - name: Run Feature Engineering
         run: |
-          python src/features/engineer.py \
-            --input data/processed/AB_NYC_2019_quality_assessed.csv \
-            --output data/processed/AB_NYC_2019_feature_engineered.csv \
+          python src/features/engineer.py\
+            --input data/processed/AB_NYC_2019_quality_assessed.csv\
+            --output data/processed/AB_NYC_2019_feature_engineered.csv\
             --preprocessor models/trained/preprocessor.pkl
 
       - name: Setup MLFow
         run: |
           docker pull ghrc.io/mlflow/mlflow:latest
-          docker run -d -p 5001:5000 -name mlfow-server ghrc.io/mlflow/mlflow:latest \
-            mlflow server --backend-store-uri sqlite:///mlflow.db \ 
-            --default-artifact-root ./mlruns \
+          docker run -d -p 5001:5000 --name mlfow-server ghrc.io/mlflow/mlflow:latest\
+            mlflow server --backend-store-uri sqlite:///mlflow.db\ 
+            --default-artifact-root ./mlruns\
             --host 0.0.0.0 --port 5001
 
       - name: Run Model Training
         run: |
-          python src/models/train_model.py \
-          --config configs/model_config.yaml \ 
-          --data data/processed/AB_NYC_2019_feature_engineered.csv \
-          --models-dir models \   
+          python src/models/train_model.py\
+          --config configs/model_config.yaml\ 
+          --data data/processed/AB_NYC_2019_feature_engineered.csv\
+          --models-dir models\   
           --mlflow-tracking-uri http://localhost:5001
 
       - name: Cleaning up MLFlow
