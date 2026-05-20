@@ -1,4 +1,4 @@
-# End-to-end-ML-House-Price-Predictor
+# End-to-end-ML-Airbnb-Price-Predictor
 
 "This application is being developed as part of an end-to-end machine learning project, inspired by my Data Science Master's Degree course at University of Miami"
 
