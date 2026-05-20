@@ -1,0 +1,3997 @@
+{
+  "Bronx_Allerton": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 31.0,
+      "reviews_per_month": 2.5,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 169.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 21.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 172.0
+    }
+  },
+  "Bronx_Baychester": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 69.0,
+      "reviews_per_month": 3.4,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 119.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.87,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 311.0
+    }
+  },
+  "Bronx_Belmont": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 71.0,
+      "reviews_per_month": 3.45,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 291.0
+    },
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.475,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 203.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.94,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 358.0
+    }
+  },
+  "Bronx_Bronxdale": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 2.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 10.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 22.5,
+      "reviews_per_month": 1.46,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 241.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 4.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 340.0
+    }
+  },
+  "Bronx_Castle Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 59.0,
+      "reviews_per_month": 2.775,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 106.5
+    }
+  },
+  "Bronx_City Island": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 42.0,
+      "reviews_per_month": 2.18,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 155.0
+    },
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 1.38,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 103.5
+    }
+  },
+  "Bronx_Claremont Village": {
+    "Entire home/apt": {
+      "minimum_nights": 90.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.305,
+      "calculated_host_listings_count": 7.0,
+      "availability_365": 93.0
+    },
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 19.5,
+      "reviews_per_month": 1.96,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 132.5
+    }
+  },
+  "Bronx_Clason Point": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 1.585,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 303.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 3.5,
+      "reviews_per_month": 0.7999999999999999,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 167.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 16.5,
+      "reviews_per_month": 0.98,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 253.0
+    }
+  },
+  "Bronx_Co-op City": {
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 0.245,
+      "calculated_host_listings_count": 7.0,
+      "availability_365": 364.0
+    }
+  },
+  "Bronx_Concourse": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 37.0,
+      "reviews_per_month": 2.89,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 193.0
+    },
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 23.5,
+      "reviews_per_month": 1.755,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 146.5
+    }
+  },
+  "Bronx_Concourse Village": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.32,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 253.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 1.55,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 176.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.09,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Bronx_East Morrisania": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 82.0,
+      "reviews_per_month": 2.75,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 312.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 57.5,
+      "reviews_per_month": 2.795,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 149.0
+    }
+  },
+  "Bronx_Eastchester": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.29,
+      "calculated_host_listings_count": 13.0,
+      "availability_365": 364.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 21.0,
+      "reviews_per_month": 0.55,
+      "calculated_host_listings_count": 13.0,
+      "availability_365": 364.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.37,
+      "calculated_host_listings_count": 13.0,
+      "availability_365": 318.0
+    }
+  },
+  "Bronx_Edenwald": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 32.0,
+      "reviews_per_month": 3.02,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 148.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 0.55,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 311.0
+    }
+  },
+  "Bronx_Fieldston": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 5.5,
+      "reviews_per_month": 0.495,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 221.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.56,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 36.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.26,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 241.0
+    }
+  },
+  "Bronx_Fordham": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 2.33,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 37.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.19,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 87.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.31,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 83.0
+    }
+  },
+  "Bronx_Highbridge": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 38.5,
+      "reviews_per_month": 2.025,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 108.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 51.0,
+      "reviews_per_month": 1.81,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 134.0
+    }
+  },
+  "Bronx_Hunts Point": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.57,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 14.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.44,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 332.0
+    }
+  },
+  "Bronx_Kingsbridge": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 1.05,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 112.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 14.0,
+      "reviews_per_month": 1.36,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 86.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.52,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 83.0
+    }
+  },
+  "Bronx_Longwood": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 45.0,
+      "reviews_per_month": 1.18,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 118.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 1.22,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 179.0
+    }
+  },
+  "Bronx_Melrose": {
+    "Entire home/apt": {
+      "minimum_nights": 3.5,
+      "number_of_reviews": 11.5,
+      "reviews_per_month": 1.97,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 64.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 1.03,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Bronx_Morris Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 3.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 6.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 30.5,
+      "reviews_per_month": 1.385,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 299.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.53,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Bronx_Morris Park": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 20.0,
+      "reviews_per_month": 2.29,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 72.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.61,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 39.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.23,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 88.0
+    }
+  },
+  "Bronx_Morrisania": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 14.5,
+      "reviews_per_month": 1.71,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 101.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 18.0,
+      "reviews_per_month": 1.25,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 175.0
+    }
+  },
+  "Bronx_Mott Haven": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 32.0,
+      "reviews_per_month": 2.52,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 103.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 24.0,
+      "reviews_per_month": 2.05,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 90.0
+    }
+  },
+  "Bronx_Mount Eden": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.28,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 61.5,
+      "reviews_per_month": 1.925,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 239.5
+    }
+  },
+  "Bronx_Mount Hope": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 1.02,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 93.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.97,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 101.5
+    }
+  },
+  "Bronx_North Riverdale": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 27.0,
+      "reviews_per_month": 2.13,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 328.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 175.0
+    }
+  },
+  "Bronx_Norwood": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 4.5,
+      "reviews_per_month": 0.125,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 140.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 18.0,
+      "reviews_per_month": 0.96,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 269.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.71,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 6.0
+    }
+  },
+  "Bronx_Olinville": {
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 20.0,
+      "reviews_per_month": 2.2,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 188.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.67,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 312.0
+    }
+  },
+  "Bronx_Parkchester": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.69,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 170.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 1.8,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 59.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 13.5,
+      "reviews_per_month": 0.52,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 215.5
+    }
+  },
+  "Bronx_Pelham Bay": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.5,
+      "reviews_per_month": 1.365,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 307.0
+    },
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 70.5,
+      "reviews_per_month": 2.5549999999999997,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 184.0
+    }
+  },
+  "Bronx_Pelham Gardens": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 41.0,
+      "reviews_per_month": 2.45,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 146.0
+    },
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 28.5,
+      "reviews_per_month": 1.405,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 25.5
+    }
+  },
+  "Bronx_Port Morris": {
+    "Entire home/apt": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 13.5,
+      "reviews_per_month": 2.175,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 46.0
+    },
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 58.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 145.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 4.5,
+      "reviews_per_month": 2.0149999999999997,
+      "calculated_host_listings_count": 7.5,
+      "availability_365": 85.5
+    }
+  },
+  "Bronx_Riverdale": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 1.99,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 52.0
+    },
+    "Private room": {
+      "minimum_nights": 3.5,
+      "number_of_reviews": 102.0,
+      "reviews_per_month": 2.1999999999999997,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 170.0
+    }
+  },
+  "Bronx_Schuylerville": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 22.0,
+      "reviews_per_month": 3.24,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 3.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 20.0,
+      "reviews_per_month": 1.65,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 183.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 116.0,
+      "reviews_per_month": 4.09,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 5.0
+    }
+  },
+  "Bronx_Soundview": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 36.5,
+      "reviews_per_month": 4.61,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 103.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 1.32,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 156.0
+    }
+  },
+  "Bronx_Spuyten Duyvil": {
+    "Entire home/apt": {
+      "minimum_nights": 94.0,
+      "number_of_reviews": 27.0,
+      "reviews_per_month": 0.7,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 341.5
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.11,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 326.0
+    }
+  },
+  "Bronx_Throgs Neck": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 25.5,
+      "reviews_per_month": 2.235,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 211.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 1.915,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 118.5
+    }
+  },
+  "Bronx_Tremont": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 30.0,
+      "reviews_per_month": 2.1350000000000002,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 143.0
+    },
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 23.5,
+      "reviews_per_month": 0.54,
+      "calculated_host_listings_count": 2.5,
+      "availability_365": 34.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 1.57,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 152.0
+    }
+  },
+  "Bronx_Unionport": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 18.0,
+      "reviews_per_month": 4.78,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 161.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.68,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 365.0
+    }
+  },
+  "Bronx_University Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.53,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 89.0
+    },
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 33.5,
+      "reviews_per_month": 1.2349999999999999,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 81.0
+    }
+  },
+  "Bronx_Van Nest": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 47.0,
+      "reviews_per_month": 3.63,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 24.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 219.0
+    },
+    "Shared room": {
+      "minimum_nights": 10.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.48,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 114.0
+    }
+  },
+  "Bronx_Wakefield": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.73,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 215.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 13.5,
+      "reviews_per_month": 2.255,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 292.0
+    }
+  },
+  "Bronx_West Farms": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.63,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 310.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.16,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 179.0
+    }
+  },
+  "Bronx_Westchester Square": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 35.0,
+      "reviews_per_month": 2.99,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 129.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 1.11,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 123.0
+    }
+  },
+  "Bronx_Williamsbridge": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 13.5,
+      "reviews_per_month": 3.4299999999999997,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 302.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 16.0,
+      "reviews_per_month": 0.54,
+      "calculated_host_listings_count": 2.5,
+      "availability_365": 297.0
+    }
+  },
+  "Bronx_Woodlawn": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 30.5,
+      "reviews_per_month": 1.84,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 175.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 6.5,
+      "reviews_per_month": 1.275,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 54.5
+    }
+  },
+  "Brooklyn_Bath Beach": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 38.0,
+      "reviews_per_month": 1.68,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 36.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 20.5,
+      "reviews_per_month": 1.6099999999999999,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 313.5
+    }
+  },
+  "Brooklyn_Bay Ridge": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 16.0,
+      "reviews_per_month": 1.17,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 179.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.815,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 171.5
+    },
+    "Shared room": {
+      "minimum_nights": 9.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.86,
+      "calculated_host_listings_count": 12.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Bedford-Stuyvesant": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 1.36,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 77.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.8,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 56.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 1.18,
+      "calculated_host_listings_count": 10.0,
+      "availability_365": 179.0
+    }
+  },
+  "Brooklyn_Bensonhurst": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 1.65,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 131.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.5,
+      "reviews_per_month": 1.15,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 81.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 0.43,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 180.0
+    }
+  },
+  "Brooklyn_Bergen Beach": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 25.0,
+      "reviews_per_month": 2.24,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 148.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 30.0,
+      "reviews_per_month": 1.15,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 90.0
+    }
+  },
+  "Brooklyn_Boerum Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.5,
+      "reviews_per_month": 0.34,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 5.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 1.1400000000000001,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 3.5
+    }
+  },
+  "Brooklyn_Borough Park": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 48.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.98,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 129.0
+    },
+    "Shared room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.775,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 256.0
+    }
+  },
+  "Brooklyn_Brighton Beach": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.81,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 135.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 1.37,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 186.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 2.5,
+      "reviews_per_month": 0.67,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 214.0
+    }
+  },
+  "Brooklyn_Brooklyn Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.33499999999999996,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 19.5,
+      "reviews_per_month": 0.7849999999999999,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 1.0
+    }
+  },
+  "Brooklyn_Brownsville": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 2.34,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 138.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 1.29,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 53.0
+    }
+  },
+  "Brooklyn_Bushwick": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.99,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 34.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.58,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 21.0
+    },
+    "Shared room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.63,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 147.0
+    }
+  },
+  "Brooklyn_Canarsie": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 43.0,
+      "reviews_per_month": 2.27,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 247.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.5,
+      "reviews_per_month": 0.8300000000000001,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 264.5
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.13,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 3.0
+    }
+  },
+  "Brooklyn_Carroll Gardens": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.585,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 13.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.5,
+      "reviews_per_month": 1.26,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.5
+    }
+  },
+  "Brooklyn_Clinton Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.39,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 14.5
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.325,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 8.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 1.905,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 9.5
+    }
+  },
+  "Brooklyn_Cobble Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 0.53,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 5.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 19.0,
+      "reviews_per_month": 1.06,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Columbia St": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.47,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 13.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.53,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 6.0
+    }
+  },
+  "Brooklyn_Coney Island": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 52.0,
+      "reviews_per_month": 1.95,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 140.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 58.5,
+      "reviews_per_month": 1.885,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 160.5
+    },
+    "Shared room": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.48,
+      "calculated_host_listings_count": 10.0,
+      "availability_365": 64.5
+    }
+  },
+  "Brooklyn_Crown Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 0.7,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 28.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.505,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 30.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.64,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 23.0
+    }
+  },
+  "Brooklyn_Cypress Hills": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 22.0,
+      "reviews_per_month": 2.4,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 164.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 1.025,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 192.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 26.0,
+      "reviews_per_month": 2.02,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 16.0
+    }
+  },
+  "Brooklyn_DUMBO": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 5.5,
+      "reviews_per_month": 0.29000000000000004,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 3.5
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 0.63,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Downtown Brooklyn": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.44,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 8.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.21,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Dyker Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 51.0,
+      "reviews_per_month": 1.8399999999999999,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 286.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 39.0,
+      "reviews_per_month": 1.15,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 45.0
+    },
+    "Shared room": {
+      "minimum_nights": 5.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.77,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 89.0
+    }
+  },
+  "Brooklyn_East Flatbush": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 34.0,
+      "reviews_per_month": 1.9449999999999998,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 154.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.91,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 170.5
+    },
+    "Shared room": {
+      "minimum_nights": 30.0,
+      "number_of_reviews": 3.5,
+      "reviews_per_month": 0.11499999999999999,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 364.5
+    }
+  },
+  "Brooklyn_East New York": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 34.0,
+      "reviews_per_month": 2.43,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 132.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 12.5,
+      "reviews_per_month": 1.06,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 212.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.4,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 180.0
+    }
+  },
+  "Brooklyn_Flatbush": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.655,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 20.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.64,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 50.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.5,
+      "reviews_per_month": 0.975,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 71.0
+    }
+  },
+  "Brooklyn_Flatlands": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 21.0,
+      "reviews_per_month": 1.64,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 180.0
+    },
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 1.125,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 263.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 20.0,
+      "reviews_per_month": 1.28,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 160.0
+    }
+  },
+  "Brooklyn_Fort Greene": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.365,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 5.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.62,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 45.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 1.63,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 31.0
+    }
+  },
+  "Brooklyn_Fort Hamilton": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.44,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 141.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.66,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 63.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 12.5,
+      "reviews_per_month": 0.89,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 221.0
+    }
+  },
+  "Brooklyn_Gowanus": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 10.5,
+      "reviews_per_month": 0.75,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 30.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.41,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 1.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 82.0,
+      "reviews_per_month": 1.21,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 162.5
+    }
+  },
+  "Brooklyn_Gravesend": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 2.2750000000000004,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 113.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.5,
+      "reviews_per_month": 0.93,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 31.0
+    },
+    "Shared room": {
+      "minimum_nights": 6.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.615,
+      "calculated_host_listings_count": 9.0,
+      "availability_365": 25.0
+    }
+  },
+  "Brooklyn_Greenpoint": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.37,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 15.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.27,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 3.5,
+      "reviews_per_month": 0.27,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 306.5
+    }
+  },
+  "Brooklyn_Kensington": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.26,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 25.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.685,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 27.5
+    },
+    "Shared room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 1.5,
+      "reviews_per_month": 0.345,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 11.0
+    }
+  },
+  "Brooklyn_Manhattan Beach": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 59.0,
+      "reviews_per_month": 1.24,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 215.0
+    },
+    "Private room": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 118.0,
+      "reviews_per_month": 2.34,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 269.0
+    }
+  },
+  "Brooklyn_Midwood": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.6,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 49.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.5,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 67.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.32,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 21.0
+    }
+  },
+  "Brooklyn_Mill Basin": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 25.0,
+      "reviews_per_month": 1.7,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 322.0
+    }
+  },
+  "Brooklyn_Navy Yard": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.14,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 6.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.15,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Park Slope": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.45,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 13.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.32,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 1.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 46.0,
+      "reviews_per_month": 1.38,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Prospect Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.305,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 4.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 16.5,
+      "reviews_per_month": 0.835,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 32.0
+    }
+  },
+  "Brooklyn_Prospect-Lefferts Gardens": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.59,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 9.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 14.0,
+      "reviews_per_month": 0.84,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 59.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.53,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 352.0
+    }
+  },
+  "Brooklyn_Red Hook": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 16.5,
+      "reviews_per_month": 0.975,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 79.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 59.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.525,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 89.5
+    }
+  },
+  "Brooklyn_Sea Gate": {
+    "Entire home/apt": {
+      "minimum_nights": 5.5,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.515,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 90.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.05,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Sheepshead Bay": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 14.0,
+      "reviews_per_month": 1.02,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 100.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.5,
+      "reviews_per_month": 1.12,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 135.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.26,
+      "calculated_host_listings_count": 8.0,
+      "availability_365": 342.0
+    }
+  },
+  "Brooklyn_South Slope": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.59,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 12.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 0.71,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 36.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.06,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Brooklyn_Sunset Park": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 0.75,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 21.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.81,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 65.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.81,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 90.0
+    }
+  },
+  "Brooklyn_Vinegar Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.24,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 1.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.66,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 21.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 37.0,
+      "reviews_per_month": 1.09,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 83.0
+    }
+  },
+  "Brooklyn_Williamsburg": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.47,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 7.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.44,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.5,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 81.0
+    }
+  },
+  "Brooklyn_Windsor Terrace": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 0.6,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 32.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 18.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 75.0
+    }
+  },
+  "Manhattan_Battery Park City": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.26,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 2.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.44,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 205.0,
+      "reviews_per_month": 3.04,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 326.0
+    }
+  },
+  "Manhattan_Chelsea": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.385,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 9.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 1.01,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 29.5
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 41.5,
+      "reviews_per_month": 1.6099999999999999,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 219.5
+    }
+  },
+  "Manhattan_Chinatown": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 0.735,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 15.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.64,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 20.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 47.5,
+      "reviews_per_month": 4.18,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 56.5
+    }
+  },
+  "Manhattan_Civic Center": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.255,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.27,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Manhattan_East Harlem": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 0.92,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 25.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 18.0,
+      "reviews_per_month": 1.1,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 50.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 2.12,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 46.0
+    }
+  },
+  "Manhattan_East Village": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.47,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 3.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.49,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 1.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 15.5,
+      "reviews_per_month": 1.25,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 0.5
+    }
+  },
+  "Manhattan_Financial District": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 96.0,
+      "availability_365": 292.5
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.33,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.5700000000000001,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 89.5
+    }
+  },
+  "Manhattan_Flatiron District": {
+    "Entire home/apt": {
+      "minimum_nights": 3.5,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.25,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.79,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 13.0
+    }
+  },
+  "Manhattan_Gramercy": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.32,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 11.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.82,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 13.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 29.0,
+      "reviews_per_month": 1.41,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 31.0
+    }
+  },
+  "Manhattan_Greenwich Village": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.395,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 7.5
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 6.5,
+      "reviews_per_month": 0.4,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 35.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.05,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 0.0
+    }
+  },
+  "Manhattan_Harlem": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 14.0,
+      "reviews_per_month": 0.74,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 27.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 0.81,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 65.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 1.25,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 89.5
+    }
+  },
+  "Manhattan_Hell's Kitchen": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.605,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 66.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 1.25,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 88.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 2.67,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 212.0
+    }
+  },
+  "Manhattan_Inwood": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.27,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 4.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.79,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 86.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 47.5,
+      "reviews_per_month": 1.2,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 45.0
+    }
+  },
+  "Manhattan_Kips Bay": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.31,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 18.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.26,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.5449999999999999,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 325.0
+    }
+  },
+  "Manhattan_Little Italy": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.6,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 93.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 0.67,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 10.0
+    },
+    "Shared room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 19.5,
+      "reviews_per_month": 1.1,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 221.5
+    }
+  },
+  "Manhattan_Lower East Side": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.5,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 11.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.68,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 9.5
+    },
+    "Shared room": {
+      "minimum_nights": 14.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.245,
+      "calculated_host_listings_count": 16.0,
+      "availability_365": 260.5
+    }
+  },
+  "Manhattan_Marble Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 22.5,
+      "reviews_per_month": 0.62,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 26.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.23,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Manhattan_Midtown": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.41,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 125.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.97,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 8.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.9450000000000001,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 10.0
+    }
+  },
+  "Manhattan_Morningside Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.155,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.52,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 1.5
+    },
+    "Shared room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.04,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 0.0
+    }
+  },
+  "Manhattan_Murray Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 29.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.275,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 140.0
+    },
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 0.55,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 16.5
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 1.43,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 22.0
+    }
+  },
+  "Manhattan_NoHo": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.54,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 34.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.5,
+      "reviews_per_month": 0.495,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 37.5
+    }
+  },
+  "Manhattan_Nolita": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.51,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.31,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.28,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 14.0
+    }
+  },
+  "Manhattan_Roosevelt Island": {
+    "Entire home/apt": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 4.5,
+      "reviews_per_month": 0.255,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.3,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.04,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Manhattan_SoHo": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.55,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 17.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.71,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 59.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 51.0,
+      "reviews_per_month": 1.48,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 82.0
+    }
+  },
+  "Manhattan_Stuyvesant Town": {
+    "Entire home/apt": {
+      "minimum_nights": 5.0,
+      "number_of_reviews": 16.0,
+      "reviews_per_month": 0.68,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 21.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.31,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Manhattan_Theater District": {
+    "Entire home/apt": {
+      "minimum_nights": 20.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.22,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 188.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 2.29,
+      "calculated_host_listings_count": 2.5,
+      "availability_365": 140.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 60.0,
+      "reviews_per_month": 1.605,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 183.0
+    }
+  },
+  "Manhattan_Tribeca": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.335,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 31.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.34,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Manhattan_Two Bridges": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 21.0,
+      "reviews_per_month": 1.46,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 6.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 16.0,
+      "reviews_per_month": 2.105,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 56.0
+    }
+  },
+  "Manhattan_Upper East Side": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.34,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 20.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.79,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 34.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 16.5,
+      "reviews_per_month": 0.815,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 68.0
+    }
+  },
+  "Manhattan_Upper West Side": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.28,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 4.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.58,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 6.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 47.0,
+      "reviews_per_month": 1.4,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 77.0
+    }
+  },
+  "Manhattan_Washington Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.365,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 17.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.62,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 53.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 16.5,
+      "reviews_per_month": 0.745,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 72.0
+    }
+  },
+  "Manhattan_West Village": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.43,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 3.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.86,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 26.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 42.0,
+      "reviews_per_month": 0.93,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 181.0
+    }
+  },
+  "Queens_Arverne": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 20.5,
+      "reviews_per_month": 1.845,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 159.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 1.315,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 155.5
+    }
+  },
+  "Queens_Astoria": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.52,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 16.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.5,
+      "reviews_per_month": 0.76,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 71.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 1.67,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 66.0
+    }
+  },
+  "Queens_Bay Terrace": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 115.5,
+      "reviews_per_month": 2.17,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 236.5
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.25,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 324.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.95,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 169.0
+    }
+  },
+  "Queens_Bayside": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 1.0050000000000001,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 75.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 20.5,
+      "reviews_per_month": 2.21,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 146.5
+    }
+  },
+  "Queens_Bayswater": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 15.5,
+      "reviews_per_month": 1.255,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 265.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.13,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 172.0
+    }
+  },
+  "Queens_Belle Harbor": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 2.51,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 188.0
+    }
+  },
+  "Queens_Bellerose": {
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 27.0,
+      "reviews_per_month": 1.06,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 222.0
+    }
+  },
+  "Queens_Briarwood": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 1.55,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 168.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 22.0,
+      "reviews_per_month": 1.4249999999999998,
+      "calculated_host_listings_count": 2.5,
+      "availability_365": 100.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 2.13,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 225.5
+    }
+  },
+  "Queens_Cambria Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 65.0,
+      "reviews_per_month": 2.35,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 263.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 1.49,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 77.0
+    }
+  },
+  "Queens_College Point": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 2.49,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 77.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.88,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 79.0
+    }
+  },
+  "Queens_Corona": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 37.0,
+      "reviews_per_month": 1.23,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 242.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 34.0,
+      "reviews_per_month": 1.73,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 110.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 352.0
+    }
+  },
+  "Queens_Ditmars Steinway": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 14.0,
+      "reviews_per_month": 0.77,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 30.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 1.125,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 105.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 7.5,
+      "reviews_per_month": 0.185,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 0.0
+    }
+  },
+  "Queens_Douglaston": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 16.0,
+      "reviews_per_month": 1.7,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 143.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 0.82,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 240.0
+    }
+  },
+  "Queens_East Elmhurst": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 36.0,
+      "reviews_per_month": 4.01,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 141.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 30.5,
+      "reviews_per_month": 4.51,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 153.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.7,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 89.0
+    }
+  },
+  "Queens_Edgemere": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 0.78,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 278.5
+    },
+    "Private room": {
+      "minimum_nights": 15.5,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 1.035,
+      "calculated_host_listings_count": 22.0,
+      "availability_365": 339.0
+    }
+  },
+  "Queens_Elmhurst": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 30.0,
+      "reviews_per_month": 1.85,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 107.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 9.5,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 108.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 1.01,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 236.0
+    }
+  },
+  "Queens_Far Rockaway": {
+    "Entire home/apt": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.49,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 62.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 1.33,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 151.0
+    }
+  },
+  "Queens_Flushing": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 20.0,
+      "reviews_per_month": 2.09,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 120.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 1.93,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 152.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 90.0
+    }
+  },
+  "Queens_Forest Hills": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 18.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 86.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 0.45,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 95.0
+    },
+    "Shared room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 24.0,
+      "reviews_per_month": 1.11,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 125.0
+    }
+  },
+  "Queens_Fresh Meadows": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 22.0,
+      "reviews_per_month": 3.635,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 152.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 2.955,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 44.5
+    }
+  },
+  "Queens_Glendale": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 13.5,
+      "reviews_per_month": 1.9449999999999998,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 102.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 18.0,
+      "reviews_per_month": 1.325,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 255.0
+    }
+  },
+  "Queens_Hollis": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 1.5,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 10.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.76,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 89.0
+    }
+  },
+  "Queens_Holliswood": {
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.31,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 180.0
+    }
+  },
+  "Queens_Howard Beach": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 25.0,
+      "reviews_per_month": 1.905,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 254.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 1.3050000000000002,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 157.5
+    }
+  },
+  "Queens_Jackson Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 1.1600000000000001,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 109.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 20.0,
+      "reviews_per_month": 1.43,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 127.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 0.68,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 350.0
+    }
+  },
+  "Queens_Jamaica": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 29.0,
+      "reviews_per_month": 2.82,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 123.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 19.0,
+      "reviews_per_month": 1.5150000000000001,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 174.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 60.5,
+      "reviews_per_month": 7.2,
+      "calculated_host_listings_count": 6.0,
+      "availability_365": 230.5
+    }
+  },
+  "Queens_Jamaica Estates": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 29.0,
+      "reviews_per_month": 1.96,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 142.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 3.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 179.0
+    }
+  },
+  "Queens_Jamaica Hills": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 3.16,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 81.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.75,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 69.5
+    }
+  },
+  "Queens_Kew Gardens": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.105,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 63.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.5,
+      "reviews_per_month": 2.145,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 306.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.73,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 362.0
+    }
+  },
+  "Queens_Kew Gardens Hills": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 0.69,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 53.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.95,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 90.0
+    }
+  },
+  "Queens_Laurelton": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 14.0,
+      "reviews_per_month": 2.24,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 317.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 54.0,
+      "reviews_per_month": 1.72,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 173.0
+    }
+  },
+  "Queens_Little Neck": {
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.43000000000000005,
+      "calculated_host_listings_count": 5.0,
+      "availability_365": 113.5
+    },
+    "Shared room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.14,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 88.0
+    }
+  },
+  "Queens_Long Island City": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.71,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 21.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 1.07,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 57.5
+    },
+    "Shared room": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 0.66,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 86.0
+    }
+  },
+  "Queens_Maspeth": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 27.0,
+      "reviews_per_month": 2.25,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 231.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 0.97,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 188.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 5.0,
+      "reviews_per_month": 2.68,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 89.0
+    }
+  },
+  "Queens_Middle Village": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 30.5,
+      "reviews_per_month": 1.495,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 238.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 20.5,
+      "reviews_per_month": 1.775,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 108.0
+    }
+  },
+  "Queens_Neponsit": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.55,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 44.0
+    }
+  },
+  "Queens_Ozone Park": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 14.5,
+      "reviews_per_month": 1.335,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 150.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 13.5,
+      "reviews_per_month": 1.005,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 141.5
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.11,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 364.0
+    }
+  },
+  "Queens_Queens Village": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 42.5,
+      "reviews_per_month": 3.6,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 164.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 0.76,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 89.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 11.0,
+      "reviews_per_month": 0.51,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 125.0
+    }
+  },
+  "Queens_Rego Park": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 1.46,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 74.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 1.57,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 89.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 11.5,
+      "reviews_per_month": 0.74,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 25.5
+    }
+  },
+  "Queens_Richmond Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 29.0,
+      "reviews_per_month": 2.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 283.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 16.0,
+      "reviews_per_month": 1.595,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 176.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 4.07,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 272.5
+    }
+  },
+  "Queens_Ridgewood": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 9.5,
+      "reviews_per_month": 0.8200000000000001,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 41.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.79,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 67.0
+    },
+    "Shared room": {
+      "minimum_nights": 30.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.1,
+      "calculated_host_listings_count": 4.0,
+      "availability_365": 365.0
+    }
+  },
+  "Queens_Rockaway Beach": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 14.0,
+      "reviews_per_month": 1.54,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 131.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 13.0,
+      "reviews_per_month": 0.84,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 330.0
+    }
+  },
+  "Queens_Rosedale": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 29.5,
+      "reviews_per_month": 2.1,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 156.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 27.5,
+      "reviews_per_month": 2.01,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 112.0
+    }
+  },
+  "Queens_South Ozone Park": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 46.0,
+      "reviews_per_month": 3.635,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 217.0
+    },
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 41.0,
+      "reviews_per_month": 1.69,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 180.0
+    },
+    "Shared room": {
+      "minimum_nights": 5.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.32,
+      "calculated_host_listings_count": 7.0,
+      "availability_365": 365.0
+    }
+  },
+  "Queens_Springfield Gardens": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 29.5,
+      "reviews_per_month": 3.475,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 179.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 3.02,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 249.0
+    }
+  },
+  "Queens_St. Albans": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 32.0,
+      "reviews_per_month": 2.34,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 230.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 23.0,
+      "reviews_per_month": 1.78,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 232.0
+    }
+  },
+  "Queens_Sunnyside": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.56,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 40.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.0,
+      "reviews_per_month": 0.97,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 98.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 4.0,
+      "reviews_per_month": 1.88,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 206.0
+    }
+  },
+  "Queens_Whitestone": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 1.64,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 204.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 44.0,
+      "reviews_per_month": 4.93,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 87.0
+    }
+  },
+  "Queens_Woodhaven": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 2.1100000000000003,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 143.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 1.76,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 248.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 28.0,
+      "reviews_per_month": 3.59,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 200.5
+    }
+  },
+  "Queens_Woodside": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 2.22,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 133.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 4.5,
+      "reviews_per_month": 0.5,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 84.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 3.04,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 89.0
+    }
+  },
+  "Staten Island_Arden Heights": {
+    "Entire home/apt": {
+      "minimum_nights": 5.0,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 55.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.71,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Staten Island_Arrochar": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 15.0,
+      "reviews_per_month": 1.4,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 169.0
+    },
+    "Private room": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 0.85,
+      "calculated_host_listings_count": 8.0,
+      "availability_365": 338.0
+    }
+  },
+  "Staten Island_Bay Terrace, Staten Island": {
+    "Entire home/apt": {
+      "minimum_nights": 16.5,
+      "number_of_reviews": 1.5,
+      "reviews_per_month": 0.45499999999999996,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Staten Island_Bull's Head": {
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 29.0,
+      "reviews_per_month": 2.06,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 0.0
+    }
+  },
+  "Staten Island_Castleton Corners": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 52.0,
+      "reviews_per_month": 1.95,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 40.0
+    }
+  },
+  "Staten Island_Clifton": {
+    "Entire home/apt": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 75.5,
+      "reviews_per_month": 2.5199999999999996,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 299.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 0.56,
+      "calculated_host_listings_count": 7.0,
+      "availability_365": 37.0
+    },
+    "Shared room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 1.5,
+      "reviews_per_month": 0.16,
+      "calculated_host_listings_count": 7.0,
+      "availability_365": 174.5
+    }
+  },
+  "Staten Island_Concord": {
+    "Entire home/apt": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 14.5,
+      "reviews_per_month": 0.5549999999999999,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 201.5
+    },
+    "Private room": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 27.5,
+      "reviews_per_month": 1.3,
+      "calculated_host_listings_count": 7.0,
+      "availability_365": 333.5
+    },
+    "Shared room": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.77,
+      "calculated_host_listings_count": 7.0,
+      "availability_365": 68.0
+    }
+  },
+  "Staten Island_Dongan Hills": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 29.5,
+      "reviews_per_month": 1.7349999999999999,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 92.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 2.62,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 310.0
+    }
+  },
+  "Staten Island_Eltingville": {
+    "Entire home/apt": {
+      "minimum_nights": 5.0,
+      "number_of_reviews": 83.0,
+      "reviews_per_month": 2.56,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 291.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 145.0,
+      "reviews_per_month": 2.38,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 258.0
+    }
+  },
+  "Staten Island_Emerson Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 27.0,
+      "reviews_per_month": 2.775,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 51.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 2.0,
+      "reviews_per_month": 0.05,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 158.0
+    }
+  },
+  "Staten Island_Graniteville": {
+    "Entire home/apt": {
+      "minimum_nights": 2.5,
+      "number_of_reviews": 21.5,
+      "reviews_per_month": 1.8399999999999999,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 131.5
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 80.0,
+      "reviews_per_month": 0.92,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 226.0
+    }
+  },
+  "Staten Island_Grant City": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 68.0,
+      "reviews_per_month": 2.55,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 272.0
+    },
+    "Private room": {
+      "minimum_nights": 7.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 188.0
+    }
+  },
+  "Staten Island_Great Kills": {
+    "Entire home/apt": {
+      "minimum_nights": 30.0,
+      "number_of_reviews": 29.0,
+      "reviews_per_month": 0.97,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 130.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.5,
+      "reviews_per_month": 0.515,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 86.5
+    }
+  },
+  "Staten Island_Grymes Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 31.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.12,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 65.0
+    }
+  },
+  "Staten Island_Howland Hook": {
+    "Entire home/apt": {
+      "minimum_nights": 3.5,
+      "number_of_reviews": 20.5,
+      "reviews_per_month": 0.57,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 225.5
+    }
+  },
+  "Staten Island_Huguenot": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 20.0,
+      "reviews_per_month": 4.38,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 229.0
+    }
+  },
+  "Staten Island_Lighthouse Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 39.0,
+      "reviews_per_month": 1.165,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 215.5
+    }
+  },
+  "Staten Island_Mariners Harbor": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.41,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 174.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 29.0,
+      "reviews_per_month": 1.6199999999999999,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 133.0
+    }
+  },
+  "Staten Island_Midland Beach": {
+    "Entire home/apt": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 8.0,
+      "reviews_per_month": 1.05,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 231.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 7.0,
+      "reviews_per_month": 0.22,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 358.0
+    }
+  },
+  "Staten Island_New Brighton": {
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 71.0
+    }
+  },
+  "Staten Island_New Dorp Beach": {
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 37.0,
+      "reviews_per_month": 5.5,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 242.5
+    }
+  },
+  "Staten Island_New Springville": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 4.18,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 4.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 38.0,
+      "reviews_per_month": 2.64,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 88.0
+    }
+  },
+  "Staten Island_Oakwood": {
+    "Entire home/apt": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 1.5,
+      "reviews_per_month": 0.53,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 199.5
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 179.0
+    }
+  },
+  "Staten Island_Port Richmond": {
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 16.5,
+      "reviews_per_month": 1.54,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 353.0
+    }
+  },
+  "Staten Island_Prince's Bay": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 11.5,
+      "reviews_per_month": 1.885,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 33.0
+    }
+  },
+  "Staten Island_Randall Manor": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 16.5,
+      "reviews_per_month": 1.8850000000000002,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 328.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 12.5,
+      "reviews_per_month": 0.41000000000000003,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 321.0
+    },
+    "Shared room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 9.0,
+      "reviews_per_month": 5.51,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 8.0
+    }
+  },
+  "Staten Island_Richmondtown": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 79.0,
+      "reviews_per_month": 2.56,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 300.0
+    }
+  },
+  "Staten Island_Rosebank": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 19.0,
+      "reviews_per_month": 2.68,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 244.0
+    },
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 44.5,
+      "reviews_per_month": 2.865,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 146.5
+    }
+  },
+  "Staten Island_Rossville": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 21.0,
+      "reviews_per_month": 1.69,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 59.0
+    }
+  },
+  "Staten Island_Shore Acres": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 51.0,
+      "reviews_per_month": 0.8,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 258.0
+    }
+  },
+  "Staten Island_Silver Lake": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 147.0,
+      "reviews_per_month": 3.19,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 324.0
+    },
+    "Private room": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 90.0,
+      "reviews_per_month": 5.49,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Staten Island_South Beach": {
+    "Private room": {
+      "minimum_nights": 1.5,
+      "number_of_reviews": 10.0,
+      "reviews_per_month": 1.475,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 315.5
+    },
+    "Shared room": {
+      "minimum_nights": 4.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.06,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 0.0
+    }
+  },
+  "Staten Island_St. George": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 59.0,
+      "reviews_per_month": 2.3,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 147.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 44.5,
+      "reviews_per_month": 1.48,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 187.5
+    }
+  },
+  "Staten Island_Stapleton": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 27.0,
+      "reviews_per_month": 2.74,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 230.0
+    },
+    "Private room": {
+      "minimum_nights": 1.0,
+      "number_of_reviews": 21.0,
+      "reviews_per_month": 1.56,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 316.0
+    }
+  },
+  "Staten Island_Todt Hill": {
+    "Entire home/apt": {
+      "minimum_nights": 8.5,
+      "number_of_reviews": 3.0,
+      "reviews_per_month": 0.71,
+      "calculated_host_listings_count": 2.0,
+      "availability_365": 152.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 6.0,
+      "reviews_per_month": 2.02,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 52.0
+    }
+  },
+  "Staten Island_Tompkinsville": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 36.5,
+      "reviews_per_month": 2.285,
+      "calculated_host_listings_count": 1.5,
+      "availability_365": 172.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 25.0,
+      "reviews_per_month": 1.71,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 284.0
+    }
+  },
+  "Staten Island_Tottenville": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 1.0,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 159.0
+    }
+  },
+  "Staten Island_West Brighton": {
+    "Entire home/apt": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 52.5,
+      "reviews_per_month": 1.635,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 296.5
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 29.5,
+      "reviews_per_month": 1.125,
+      "calculated_host_listings_count": 3.0,
+      "availability_365": 292.5
+    }
+  },
+  "Staten Island_Westerleigh": {
+    "Entire home/apt": {
+      "minimum_nights": 3.0,
+      "number_of_reviews": 1.0,
+      "reviews_per_month": 0.09,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 189.0
+    },
+    "Private room": {
+      "minimum_nights": 2.0,
+      "number_of_reviews": 17.0,
+      "reviews_per_month": 0.92,
+      "calculated_host_listings_count": 1.0,
+      "availability_365": 36.0
+    }
+  }
+}

@@ -1,0 +1,8 @@
+services:
+  fastapi:
+    image: melvinmaria/fastapi:dev
+    build:
+      context: .
+      dockerfile: dockerfile
+    ports:
+      - "8000:8000" 

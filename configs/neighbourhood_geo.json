@@ -1,0 +1,866 @@
+{
+  "Bronx_Allerton": {
+    "latitude": 40.866935,
+    "longitude": -73.85906
+  },
+  "Bronx_Baychester": {
+    "latitude": 40.872975,
+    "longitude": -73.842505
+  },
+  "Bronx_Belmont": {
+    "latitude": 40.8548,
+    "longitude": -73.88593
+  },
+  "Bronx_Bronxdale": {
+    "latitude": 40.854794999999996,
+    "longitude": -73.86613
+  },
+  "Bronx_Castle Hill": {
+    "latitude": 40.819019999999995,
+    "longitude": -73.84761499999999
+  },
+  "Bronx_City Island": {
+    "latitude": 40.85056,
+    "longitude": -73.78829
+  },
+  "Bronx_Claremont Village": {
+    "latitude": 40.835975000000005,
+    "longitude": -73.91086
+  },
+  "Bronx_Clason Point": {
+    "latitude": 40.81228,
+    "longitude": -73.855185
+  },
+  "Bronx_Co-op City": {
+    "latitude": 40.86481499999999,
+    "longitude": -73.82324
+  },
+  "Bronx_Concourse": {
+    "latitude": 40.82636,
+    "longitude": -73.92604
+  },
+  "Bronx_Concourse Village": {
+    "latitude": 40.83086,
+    "longitude": -73.91951
+  },
+  "Bronx_East Morrisania": {
+    "latitude": 40.83264,
+    "longitude": -73.88707
+  },
+  "Bronx_Eastchester": {
+    "latitude": 40.880584999999996,
+    "longitude": -73.834525
+  },
+  "Bronx_Edenwald": {
+    "latitude": 40.88836499999999,
+    "longitude": -73.834325
+  },
+  "Bronx_Fieldston": {
+    "latitude": 40.89279,
+    "longitude": -73.89964
+  },
+  "Bronx_Fordham": {
+    "latitude": 40.86299,
+    "longitude": -73.8951
+  },
+  "Bronx_Highbridge": {
+    "latitude": 40.83464,
+    "longitude": -73.92779
+  },
+  "Bronx_Hunts Point": {
+    "latitude": 40.814004999999995,
+    "longitude": -73.88834
+  },
+  "Bronx_Kingsbridge": {
+    "latitude": 40.8787,
+    "longitude": -73.90155
+  },
+  "Bronx_Longwood": {
+    "latitude": 40.821560000000005,
+    "longitude": -73.90268
+  },
+  "Bronx_Melrose": {
+    "latitude": 40.823350000000005,
+    "longitude": -73.91587
+  },
+  "Bronx_Morris Heights": {
+    "latitude": 40.848485,
+    "longitude": -73.91478000000001
+  },
+  "Bronx_Morris Park": {
+    "latitude": 40.85152,
+    "longitude": -73.85669
+  },
+  "Bronx_Morrisania": {
+    "latitude": 40.82936,
+    "longitude": -73.9045
+  },
+  "Bronx_Mott Haven": {
+    "latitude": 40.81085,
+    "longitude": -73.92037
+  },
+  "Bronx_Mount Eden": {
+    "latitude": 40.84197,
+    "longitude": -73.91382
+  },
+  "Bronx_Mount Hope": {
+    "latitude": 40.84882,
+    "longitude": -73.90411
+  },
+  "Bronx_North Riverdale": {
+    "latitude": 40.909855,
+    "longitude": -73.896635
+  },
+  "Bronx_Norwood": {
+    "latitude": 40.87605,
+    "longitude": -73.8817
+  },
+  "Bronx_Olinville": {
+    "latitude": 40.88454,
+    "longitude": -73.8643
+  },
+  "Bronx_Parkchester": {
+    "latitude": 40.83613,
+    "longitude": -73.860105
+  },
+  "Bronx_Pelham Bay": {
+    "latitude": 40.84716,
+    "longitude": -73.831965
+  },
+  "Bronx_Pelham Gardens": {
+    "latitude": 40.86437,
+    "longitude": -73.84295
+  },
+  "Bronx_Port Morris": {
+    "latitude": 40.80843,
+    "longitude": -73.93022500000001
+  },
+  "Bronx_Riverdale": {
+    "latitude": 40.8883,
+    "longitude": -73.90939
+  },
+  "Bronx_Schuylerville": {
+    "latitude": 40.83715,
+    "longitude": -73.83375
+  },
+  "Bronx_Soundview": {
+    "latitude": 40.82776,
+    "longitude": -73.86608
+  },
+  "Bronx_Spuyten Duyvil": {
+    "latitude": 40.88058,
+    "longitude": -73.91812
+  },
+  "Bronx_Throgs Neck": {
+    "latitude": 40.82692,
+    "longitude": -73.82098500000001
+  },
+  "Bronx_Tremont": {
+    "latitude": 40.845525,
+    "longitude": -73.889515
+  },
+  "Bronx_Unionport": {
+    "latitude": 40.82759,
+    "longitude": -73.85585
+  },
+  "Bronx_University Heights": {
+    "latitude": 40.85711,
+    "longitude": -73.90946
+  },
+  "Bronx_Van Nest": {
+    "latitude": 40.84279,
+    "longitude": -73.86787
+  },
+  "Bronx_Wakefield": {
+    "latitude": 40.89378,
+    "longitude": -73.85546500000001
+  },
+  "Bronx_West Farms": {
+    "latitude": 40.84135,
+    "longitude": -73.878455
+  },
+  "Bronx_Westchester Square": {
+    "latitude": 40.839175,
+    "longitude": -73.84837999999999
+  },
+  "Bronx_Williamsbridge": {
+    "latitude": 40.879005,
+    "longitude": -73.85788
+  },
+  "Bronx_Woodlawn": {
+    "latitude": 40.89819,
+    "longitude": -73.86793
+  },
+  "Brooklyn_Bath Beach": {
+    "latitude": 40.60434,
+    "longitude": -74.0067
+  },
+  "Brooklyn_Bay Ridge": {
+    "latitude": 40.632705,
+    "longitude": -74.02628
+  },
+  "Brooklyn_Bedford-Stuyvesant": {
+    "latitude": 40.68652,
+    "longitude": -73.94113
+  },
+  "Brooklyn_Bensonhurst": {
+    "latitude": 40.612120000000004,
+    "longitude": -73.99607499999999
+  },
+  "Brooklyn_Bergen Beach": {
+    "latitude": 40.623245,
+    "longitude": -73.910155
+  },
+  "Brooklyn_Boerum Hill": {
+    "latitude": 40.686189999999996,
+    "longitude": -73.985765
+  },
+  "Brooklyn_Borough Park": {
+    "latitude": 40.638905,
+    "longitude": -73.99736
+  },
+  "Brooklyn_Brighton Beach": {
+    "latitude": 40.578685,
+    "longitude": -73.960655
+  },
+  "Brooklyn_Brooklyn Heights": {
+    "latitude": 40.693865,
+    "longitude": -73.993675
+  },
+  "Brooklyn_Brownsville": {
+    "latitude": 40.664280000000005,
+    "longitude": -73.915685
+  },
+  "Brooklyn_Bushwick": {
+    "latitude": 40.69761,
+    "longitude": -73.92067
+  },
+  "Brooklyn_Canarsie": {
+    "latitude": 40.639275,
+    "longitude": -73.90183999999999
+  },
+  "Brooklyn_Carroll Gardens": {
+    "latitude": 40.680955,
+    "longitude": -73.996215
+  },
+  "Brooklyn_Clinton Hill": {
+    "latitude": 40.686980000000005,
+    "longitude": -73.96435
+  },
+  "Brooklyn_Cobble Hill": {
+    "latitude": 40.687625,
+    "longitude": -73.99524
+  },
+  "Brooklyn_Columbia St": {
+    "latitude": 40.684505,
+    "longitude": -74.002465
+  },
+  "Brooklyn_Coney Island": {
+    "latitude": 40.57607,
+    "longitude": -73.98576
+  },
+  "Brooklyn_Crown Heights": {
+    "latitude": 40.672995,
+    "longitude": -73.94923
+  },
+  "Brooklyn_Cypress Hills": {
+    "latitude": 40.68202,
+    "longitude": -73.88285
+  },
+  "Brooklyn_DUMBO": {
+    "latitude": 40.70321,
+    "longitude": -73.98597
+  },
+  "Brooklyn_Downtown Brooklyn": {
+    "latitude": 40.69415,
+    "longitude": -73.98454
+  },
+  "Brooklyn_Dyker Heights": {
+    "latitude": 40.62523,
+    "longitude": -74.0106
+  },
+  "Brooklyn_East Flatbush": {
+    "latitude": 40.649429999999995,
+    "longitude": -73.94262
+  },
+  "Brooklyn_East New York": {
+    "latitude": 40.668965,
+    "longitude": -73.88702
+  },
+  "Brooklyn_Flatbush": {
+    "latitude": 40.646465,
+    "longitude": -73.96125
+  },
+  "Brooklyn_Flatlands": {
+    "latitude": 40.62541,
+    "longitude": -73.93062499999999
+  },
+  "Brooklyn_Fort Greene": {
+    "latitude": 40.68896,
+    "longitude": -73.97345
+  },
+  "Brooklyn_Fort Hamilton": {
+    "latitude": 40.618995,
+    "longitude": -74.03189
+  },
+  "Brooklyn_Gowanus": {
+    "latitude": 40.67731,
+    "longitude": -73.98969
+  },
+  "Brooklyn_Gravesend": {
+    "latitude": 40.59418,
+    "longitude": -73.97456
+  },
+  "Brooklyn_Greenpoint": {
+    "latitude": 40.727064999999996,
+    "longitude": -73.95197999999999
+  },
+  "Brooklyn_Kensington": {
+    "latitude": 40.64277,
+    "longitude": -73.97548499999999
+  },
+  "Brooklyn_Manhattan Beach": {
+    "latitude": 40.578694999999996,
+    "longitude": -73.94674499999999
+  },
+  "Brooklyn_Midwood": {
+    "latitude": 40.61978,
+    "longitude": -73.96041
+  },
+  "Brooklyn_Mill Basin": {
+    "latitude": 40.61224,
+    "longitude": -73.91846
+  },
+  "Brooklyn_Navy Yard": {
+    "latitude": 40.69845,
+    "longitude": -73.97399999999999
+  },
+  "Brooklyn_Park Slope": {
+    "latitude": 40.673615,
+    "longitude": -73.9792
+  },
+  "Brooklyn_Prospect Heights": {
+    "latitude": 40.67766,
+    "longitude": -73.9671
+  },
+  "Brooklyn_Prospect-Lefferts Gardens": {
+    "latitude": 40.659305,
+    "longitude": -73.957435
+  },
+  "Brooklyn_Red Hook": {
+    "latitude": 40.67749,
+    "longitude": -74.01009
+  },
+  "Brooklyn_Sea Gate": {
+    "latitude": 40.57774,
+    "longitude": -74.01022
+  },
+  "Brooklyn_Sheepshead Bay": {
+    "latitude": 40.59689,
+    "longitude": -73.95393
+  },
+  "Brooklyn_South Slope": {
+    "latitude": 40.66485,
+    "longitude": -73.98584
+  },
+  "Brooklyn_Sunset Park": {
+    "latitude": 40.65038,
+    "longitude": -74.0029
+  },
+  "Brooklyn_Vinegar Hill": {
+    "latitude": 40.70152,
+    "longitude": -73.98314
+  },
+  "Brooklyn_Williamsburg": {
+    "latitude": 40.71227,
+    "longitude": -73.95228
+  },
+  "Brooklyn_Windsor Terrace": {
+    "latitude": 40.65477,
+    "longitude": -73.97799
+  },
+  "Manhattan_Battery Park City": {
+    "latitude": 40.71078,
+    "longitude": -74.01658
+  },
+  "Manhattan_Chelsea": {
+    "latitude": 40.744335,
+    "longitude": -73.998305
+  },
+  "Manhattan_Chinatown": {
+    "latitude": 40.71544,
+    "longitude": -73.99287
+  },
+  "Manhattan_Civic Center": {
+    "latitude": 40.71342,
+    "longitude": -74.00267
+  },
+  "Manhattan_East Harlem": {
+    "latitude": 40.79566,
+    "longitude": -73.94203
+  },
+  "Manhattan_East Village": {
+    "latitude": 40.72681,
+    "longitude": -73.98362
+  },
+  "Manhattan_Financial District": {
+    "latitude": 40.70673,
+    "longitude": -74.01001
+  },
+  "Manhattan_Flatiron District": {
+    "latitude": 40.74107,
+    "longitude": -73.98777
+  },
+  "Manhattan_Gramercy": {
+    "latitude": 40.73557,
+    "longitude": -73.984
+  },
+  "Manhattan_Greenwich Village": {
+    "latitude": 40.72953,
+    "longitude": -73.99952
+  },
+  "Manhattan_Harlem": {
+    "latitude": 40.81686,
+    "longitude": -73.94764
+  },
+  "Manhattan_Hell's Kitchen": {
+    "latitude": 40.76284,
+    "longitude": -73.990765
+  },
+  "Manhattan_Inwood": {
+    "latitude": 40.865205,
+    "longitude": -73.92560499999999
+  },
+  "Manhattan_Kips Bay": {
+    "latitude": 40.74173,
+    "longitude": -73.97984
+  },
+  "Manhattan_Little Italy": {
+    "latitude": 40.71906,
+    "longitude": -73.99738500000001
+  },
+  "Manhattan_Lower East Side": {
+    "latitude": 40.719155,
+    "longitude": -73.98818
+  },
+  "Manhattan_Marble Hill": {
+    "latitude": 40.8754,
+    "longitude": -73.91057
+  },
+  "Manhattan_Midtown": {
+    "latitude": 40.75348,
+    "longitude": -73.97378
+  },
+  "Manhattan_Morningside Heights": {
+    "latitude": 40.8075,
+    "longitude": -73.96103
+  },
+  "Manhattan_Murray Hill": {
+    "latitude": 40.74814,
+    "longitude": -73.97642
+  },
+  "Manhattan_NoHo": {
+    "latitude": 40.72703,
+    "longitude": -73.99284
+  },
+  "Manhattan_Nolita": {
+    "latitude": 40.72222,
+    "longitude": -73.99521
+  },
+  "Manhattan_Roosevelt Island": {
+    "latitude": 40.76213,
+    "longitude": -73.94914
+  },
+  "Manhattan_SoHo": {
+    "latitude": 40.7252,
+    "longitude": -74.00213
+  },
+  "Manhattan_Stuyvesant Town": {
+    "latitude": 40.731809999999996,
+    "longitude": -73.979365
+  },
+  "Manhattan_Theater District": {
+    "latitude": 40.76037,
+    "longitude": -73.98522
+  },
+  "Manhattan_Tribeca": {
+    "latitude": 40.7181,
+    "longitude": -74.0083
+  },
+  "Manhattan_Two Bridges": {
+    "latitude": 40.71166,
+    "longitude": -73.99568
+  },
+  "Manhattan_Upper East Side": {
+    "latitude": 40.772905,
+    "longitude": -73.95390499999999
+  },
+  "Manhattan_Upper West Side": {
+    "latitude": 40.78921,
+    "longitude": -73.973185
+  },
+  "Manhattan_Washington Heights": {
+    "latitude": 40.844409999999996,
+    "longitude": -73.939005
+  },
+  "Manhattan_West Village": {
+    "latitude": 40.734155,
+    "longitude": -74.00392
+  },
+  "Queens_Arverne": {
+    "latitude": 40.591989999999996,
+    "longitude": -73.79497
+  },
+  "Queens_Astoria": {
+    "latitude": 40.764485,
+    "longitude": -73.92001
+  },
+  "Queens_Bay Terrace": {
+    "latitude": 40.779830000000004,
+    "longitude": -73.78166999999999
+  },
+  "Queens_Bayside": {
+    "latitude": 40.759344999999996,
+    "longitude": -73.769375
+  },
+  "Queens_Bayswater": {
+    "latitude": 40.60606,
+    "longitude": -73.76019
+  },
+  "Queens_Belle Harbor": {
+    "latitude": 40.575045,
+    "longitude": -73.8476
+  },
+  "Queens_Bellerose": {
+    "latitude": 40.73179,
+    "longitude": -73.72435
+  },
+  "Queens_Briarwood": {
+    "latitude": 40.71007,
+    "longitude": -73.81463
+  },
+  "Queens_Cambria Heights": {
+    "latitude": 40.69222,
+    "longitude": -73.73652
+  },
+  "Queens_College Point": {
+    "latitude": 40.78564,
+    "longitude": -73.84365500000001
+  },
+  "Queens_Corona": {
+    "latitude": 40.74132,
+    "longitude": -73.86311
+  },
+  "Queens_Ditmars Steinway": {
+    "latitude": 40.774815000000004,
+    "longitude": -73.91068
+  },
+  "Queens_Douglaston": {
+    "latitude": 40.75683,
+    "longitude": -73.73371
+  },
+  "Queens_East Elmhurst": {
+    "latitude": 40.762755,
+    "longitude": -73.87703
+  },
+  "Queens_Edgemere": {
+    "latitude": 40.594535,
+    "longitude": -73.773245
+  },
+  "Queens_Elmhurst": {
+    "latitude": 40.74038,
+    "longitude": -73.87838500000001
+  },
+  "Queens_Far Rockaway": {
+    "latitude": 40.59696,
+    "longitude": -73.75586
+  },
+  "Queens_Flushing": {
+    "latitude": 40.75644,
+    "longitude": -73.8221
+  },
+  "Queens_Forest Hills": {
+    "latitude": 40.72096,
+    "longitude": -73.84924
+  },
+  "Queens_Fresh Meadows": {
+    "latitude": 40.738609999999994,
+    "longitude": -73.790085
+  },
+  "Queens_Glendale": {
+    "latitude": 40.700195,
+    "longitude": -73.89304
+  },
+  "Queens_Hollis": {
+    "latitude": 40.714875000000006,
+    "longitude": -73.76722000000001
+  },
+  "Queens_Holliswood": {
+    "latitude": 40.72402,
+    "longitude": -73.76828
+  },
+  "Queens_Howard Beach": {
+    "latitude": 40.661815000000004,
+    "longitude": -73.84870000000001
+  },
+  "Queens_Jackson Heights": {
+    "latitude": 40.751625000000004,
+    "longitude": -73.88266
+  },
+  "Queens_Jamaica": {
+    "latitude": 40.68411,
+    "longitude": -73.78471
+  },
+  "Queens_Jamaica Estates": {
+    "latitude": 40.71873,
+    "longitude": -73.78985
+  },
+  "Queens_Jamaica Hills": {
+    "latitude": 40.71245,
+    "longitude": -73.79742
+  },
+  "Queens_Kew Gardens": {
+    "latitude": 40.7092,
+    "longitude": -73.82979
+  },
+  "Queens_Kew Gardens Hills": {
+    "latitude": 40.723645000000005,
+    "longitude": -73.819175
+  },
+  "Queens_Laurelton": {
+    "latitude": 40.673465,
+    "longitude": -73.74669
+  },
+  "Queens_Little Neck": {
+    "latitude": 40.75794,
+    "longitude": -73.72949
+  },
+  "Queens_Long Island City": {
+    "latitude": 40.75288,
+    "longitude": -73.937435
+  },
+  "Queens_Maspeth": {
+    "latitude": 40.7289,
+    "longitude": -73.90057
+  },
+  "Queens_Middle Village": {
+    "latitude": 40.715514999999996,
+    "longitude": -73.87779499999999
+  },
+  "Queens_Neponsit": {
+    "latitude": 40.57043,
+    "longitude": -73.85821
+  },
+  "Queens_Ozone Park": {
+    "latitude": 40.68129,
+    "longitude": -73.8472
+  },
+  "Queens_Queens Village": {
+    "latitude": 40.71306,
+    "longitude": -73.743935
+  },
+  "Queens_Rego Park": {
+    "latitude": 40.7273,
+    "longitude": -73.860445
+  },
+  "Queens_Richmond Hill": {
+    "latitude": 40.69439,
+    "longitude": -73.82875
+  },
+  "Queens_Ridgewood": {
+    "latitude": 40.70421,
+    "longitude": -73.90653499999999
+  },
+  "Queens_Rockaway Beach": {
+    "latitude": 40.58741,
+    "longitude": -73.81390999999999
+  },
+  "Queens_Rosedale": {
+    "latitude": 40.657305,
+    "longitude": -73.73407
+  },
+  "Queens_South Ozone Park": {
+    "latitude": 40.672895,
+    "longitude": -73.80129500000001
+  },
+  "Queens_Springfield Gardens": {
+    "latitude": 40.664154999999994,
+    "longitude": -73.763485
+  },
+  "Queens_St. Albans": {
+    "latitude": 40.693225,
+    "longitude": -73.76313999999999
+  },
+  "Queens_Sunnyside": {
+    "latitude": 40.74249,
+    "longitude": -73.92082
+  },
+  "Queens_Whitestone": {
+    "latitude": 40.781544999999994,
+    "longitude": -73.820605
+  },
+  "Queens_Woodhaven": {
+    "latitude": 40.69102,
+    "longitude": -73.8563
+  },
+  "Queens_Woodside": {
+    "latitude": 40.744455,
+    "longitude": -73.90293
+  },
+  "Staten Island_Arden Heights": {
+    "latitude": 40.553095,
+    "longitude": -74.17943500000001
+  },
+  "Staten Island_Arrochar": {
+    "latitude": 40.5949,
+    "longitude": -74.07666
+  },
+  "Staten Island_Bay Terrace, Staten Island": {
+    "latitude": 40.551435,
+    "longitude": -74.140495
+  },
+  "Staten Island_Bull's Head": {
+    "latitude": 40.60336,
+    "longitude": -74.17117
+  },
+  "Staten Island_Castleton Corners": {
+    "latitude": 40.62063,
+    "longitude": -74.13001
+  },
+  "Staten Island_Clifton": {
+    "latitude": 40.61804,
+    "longitude": -74.08513
+  },
+  "Staten Island_Concord": {
+    "latitude": 40.60228,
+    "longitude": -74.087
+  },
+  "Staten Island_Dongan Hills": {
+    "latitude": 40.57882,
+    "longitude": -74.09182
+  },
+  "Staten Island_Eltingville": {
+    "latitude": 40.54187,
+    "longitude": -74.1546
+  },
+  "Staten Island_Emerson Hill": {
+    "latitude": 40.60742,
+    "longitude": -74.11756
+  },
+  "Staten Island_Graniteville": {
+    "latitude": 40.62301,
+    "longitude": -74.16558
+  },
+  "Staten Island_Grant City": {
+    "latitude": 40.579265,
+    "longitude": -74.11016
+  },
+  "Staten Island_Great Kills": {
+    "latitude": 40.54896,
+    "longitude": -74.14246
+  },
+  "Staten Island_Grymes Hill": {
+    "latitude": 40.61569,
+    "longitude": -74.09132
+  },
+  "Staten Island_Howland Hook": {
+    "latitude": 40.631294999999994,
+    "longitude": -74.17262
+  },
+  "Staten Island_Huguenot": {
+    "latitude": 40.53982,
+    "longitude": -74.17258
+  },
+  "Staten Island_Lighthouse Hill": {
+    "latitude": 40.576795000000004,
+    "longitude": -74.13456
+  },
+  "Staten Island_Mariners Harbor": {
+    "latitude": 40.63179,
+    "longitude": -74.1588
+  },
+  "Staten Island_Midland Beach": {
+    "latitude": 40.574015,
+    "longitude": -74.09564
+  },
+  "Staten Island_New Brighton": {
+    "latitude": 40.64465,
+    "longitude": -74.09272
+  },
+  "Staten Island_New Dorp Beach": {
+    "latitude": 40.566455000000005,
+    "longitude": -74.10387499999999
+  },
+  "Staten Island_New Springville": {
+    "latitude": 40.585775,
+    "longitude": -74.15770499999999
+  },
+  "Staten Island_Oakwood": {
+    "latitude": 40.56033,
+    "longitude": -74.11992
+  },
+  "Staten Island_Port Richmond": {
+    "latitude": 40.634725,
+    "longitude": -74.133455
+  },
+  "Staten Island_Prince's Bay": {
+    "latitude": 40.52252,
+    "longitude": -74.19632999999999
+  },
+  "Staten Island_Randall Manor": {
+    "latitude": 40.6311,
+    "longitude": -74.12539
+  },
+  "Staten Island_Richmondtown": {
+    "latitude": 40.57093,
+    "longitude": -74.12429
+  },
+  "Staten Island_Rosebank": {
+    "latitude": 40.61353,
+    "longitude": -74.06724
+  },
+  "Staten Island_Rossville": {
+    "latitude": 40.5479,
+    "longitude": -74.21017
+  },
+  "Staten Island_Shore Acres": {
+    "latitude": 40.61077,
+    "longitude": -74.06824
+  },
+  "Staten Island_Silver Lake": {
+    "latitude": 40.623395,
+    "longitude": -74.09649999999999
+  },
+  "Staten Island_South Beach": {
+    "latitude": 40.59164,
+    "longitude": -74.08825
+  },
+  "Staten Island_St. George": {
+    "latitude": 40.64478,
+    "longitude": -74.08283
+  },
+  "Staten Island_Stapleton": {
+    "latitude": 40.634525,
+    "longitude": -74.077845
+  },
+  "Staten Island_Todt Hill": {
+    "latitude": 40.60991,
+    "longitude": -74.11577
+  },
+  "Staten Island_Tompkinsville": {
+    "latitude": 40.6339,
+    "longitude": -74.08546
+  },
+  "Staten Island_Tottenville": {
+    "latitude": 40.50873,
+    "longitude": -74.23914
+  },
+  "Staten Island_West Brighton": {
+    "latitude": 40.6326,
+    "longitude": -74.11506
+  },
+  "Staten Island_Westerleigh": {
+    "latitude": 40.613895,
+    "longitude": -74.13366500000001
+  }
+}

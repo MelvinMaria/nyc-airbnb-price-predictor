@@ -1,0 +1,249 @@
+model:
+  best_model: Catboost
+  feature_sets:
+    rfe:
+    - neighbourhood_group
+    - latitude
+    - longitude
+    - room_type
+    - minimum_nights
+    - number_of_reviews
+    - reviews_per_month
+    - calculated_host_listings_count
+    - availability_365
+    - has_reviews
+    - log_total_reviews
+    - dist_km_times_square
+    - dist_km_wall_street
+    - dist_km_central_park
+    - neighbourhoods_Bronx_Baychester
+    - neighbourhoods_Bronx_Belmont
+    - neighbourhoods_Bronx_Bronxdale
+    - neighbourhoods_Bronx_Castle Hill
+    - neighbourhoods_Bronx_City Island
+    - neighbourhoods_Bronx_Claremont Village
+    - neighbourhoods_Bronx_Clason Point
+    - neighbourhoods_Bronx_Co-op City
+    - neighbourhoods_Bronx_Concourse
+    - neighbourhoods_Bronx_Concourse Village
+    - neighbourhoods_Bronx_East Morrisania
+    - neighbourhoods_Bronx_Eastchester
+    - neighbourhoods_Bronx_Edenwald
+    - neighbourhoods_Bronx_Fieldston
+    - neighbourhoods_Bronx_Fordham
+    - neighbourhoods_Bronx_Highbridge
+    - neighbourhoods_Bronx_Hunts Point
+    - neighbourhoods_Bronx_Kingsbridge
+    - neighbourhoods_Bronx_Longwood
+    - neighbourhoods_Bronx_Melrose
+    - neighbourhoods_Bronx_Morris Heights
+    - neighbourhoods_Bronx_Morris Park
+    - neighbourhoods_Bronx_Morrisania
+    - neighbourhoods_Bronx_Mott Haven
+    - neighbourhoods_Bronx_Mount Eden
+    - neighbourhoods_Bronx_Mount Hope
+    - neighbourhoods_Bronx_North Riverdale
+    - neighbourhoods_Bronx_Norwood
+    - neighbourhoods_Bronx_Olinville
+    - neighbourhoods_Bronx_Parkchester
+    - neighbourhoods_Bronx_Pelham Bay
+    - neighbourhoods_Bronx_Pelham Gardens
+    - neighbourhoods_Bronx_Port Morris
+    - neighbourhoods_Bronx_Riverdale
+    - neighbourhoods_Bronx_Schuylerville
+    - neighbourhoods_Bronx_Soundview
+    - neighbourhoods_Bronx_Spuyten Duyvil
+    - neighbourhoods_Bronx_Throgs Neck
+    - neighbourhoods_Bronx_Tremont
+    - neighbourhoods_Bronx_Unionport
+    - neighbourhoods_Bronx_University Heights
+    - neighbourhoods_Bronx_Van Nest
+    - neighbourhoods_Bronx_Wakefield
+    - neighbourhoods_Bronx_West Farms
+    - neighbourhoods_Bronx_Westchester Square
+    - neighbourhoods_Bronx_Williamsbridge
+    - neighbourhoods_Bronx_Woodlawn
+    - neighbourhoods_Brooklyn_Bath Beach
+    - neighbourhoods_Brooklyn_Bay Ridge
+    - neighbourhoods_Brooklyn_Bedford-Stuyvesant
+    - neighbourhoods_Brooklyn_Bensonhurst
+    - neighbourhoods_Brooklyn_Bergen Beach
+    - neighbourhoods_Brooklyn_Boerum Hill
+    - neighbourhoods_Brooklyn_Borough Park
+    - neighbourhoods_Brooklyn_Brighton Beach
+    - neighbourhoods_Brooklyn_Brooklyn Heights
+    - neighbourhoods_Brooklyn_Brownsville
+    - neighbourhoods_Brooklyn_Bushwick
+    - neighbourhoods_Brooklyn_Canarsie
+    - neighbourhoods_Brooklyn_Carroll Gardens
+    - neighbourhoods_Brooklyn_Clinton Hill
+    - neighbourhoods_Brooklyn_Cobble Hill
+    - neighbourhoods_Brooklyn_Columbia St
+    - neighbourhoods_Brooklyn_Coney Island
+    - neighbourhoods_Brooklyn_Crown Heights
+    - neighbourhoods_Brooklyn_Cypress Hills
+    - neighbourhoods_Brooklyn_DUMBO
+    - neighbourhoods_Brooklyn_Downtown Brooklyn
+    - neighbourhoods_Brooklyn_Dyker Heights
+    - neighbourhoods_Brooklyn_East Flatbush
+    - neighbourhoods_Brooklyn_East New York
+    - neighbourhoods_Brooklyn_Flatbush
+    - neighbourhoods_Brooklyn_Flatlands
+    - neighbourhoods_Brooklyn_Fort Greene
+    - neighbourhoods_Brooklyn_Fort Hamilton
+    - neighbourhoods_Brooklyn_Gowanus
+    - neighbourhoods_Brooklyn_Gravesend
+    - neighbourhoods_Brooklyn_Greenpoint
+    - neighbourhoods_Brooklyn_Kensington
+    - neighbourhoods_Brooklyn_Manhattan Beach
+    - neighbourhoods_Brooklyn_Midwood
+    - neighbourhoods_Brooklyn_Mill Basin
+    - neighbourhoods_Brooklyn_Navy Yard
+    - neighbourhoods_Brooklyn_Park Slope
+    - neighbourhoods_Brooklyn_Prospect Heights
+    - neighbourhoods_Brooklyn_Prospect-Lefferts Gardens
+    - neighbourhoods_Brooklyn_Red Hook
+    - neighbourhoods_Brooklyn_Sea Gate
+    - neighbourhoods_Brooklyn_Sheepshead Bay
+    - neighbourhoods_Brooklyn_South Slope
+    - neighbourhoods_Brooklyn_Sunset Park
+    - neighbourhoods_Brooklyn_Vinegar Hill
+    - neighbourhoods_Brooklyn_Williamsburg
+    - neighbourhoods_Brooklyn_Windsor Terrace
+    - neighbourhoods_Manhattan_Battery Park City
+    - neighbourhoods_Manhattan_Chelsea
+    - neighbourhoods_Manhattan_Chinatown
+    - neighbourhoods_Manhattan_Civic Center
+    - neighbourhoods_Manhattan_East Harlem
+    - neighbourhoods_Manhattan_East Village
+    - neighbourhoods_Manhattan_Financial District
+    - neighbourhoods_Manhattan_Flatiron District
+    - neighbourhoods_Manhattan_Gramercy
+    - neighbourhoods_Manhattan_Greenwich Village
+    - neighbourhoods_Manhattan_Harlem
+    - neighbourhoods_Manhattan_Hell's Kitchen
+    - neighbourhoods_Manhattan_Inwood
+    - neighbourhoods_Manhattan_Kips Bay
+    - neighbourhoods_Manhattan_Little Italy
+    - neighbourhoods_Manhattan_Lower East Side
+    - neighbourhoods_Manhattan_Marble Hill
+    - neighbourhoods_Manhattan_Midtown
+    - neighbourhoods_Manhattan_Morningside Heights
+    - neighbourhoods_Manhattan_Murray Hill
+    - neighbourhoods_Manhattan_NoHo
+    - neighbourhoods_Manhattan_Nolita
+    - neighbourhoods_Manhattan_Roosevelt Island
+    - neighbourhoods_Manhattan_SoHo
+    - neighbourhoods_Manhattan_Stuyvesant Town
+    - neighbourhoods_Manhattan_Theater District
+    - neighbourhoods_Manhattan_Tribeca
+    - neighbourhoods_Manhattan_Two Bridges
+    - neighbourhoods_Manhattan_Upper East Side
+    - neighbourhoods_Manhattan_Upper West Side
+    - neighbourhoods_Manhattan_Washington Heights
+    - neighbourhoods_Manhattan_West Village
+    - neighbourhoods_Queens_Arverne
+    - neighbourhoods_Queens_Astoria
+    - neighbourhoods_Queens_Bay Terrace
+    - neighbourhoods_Queens_Bayside
+    - neighbourhoods_Queens_Bayswater
+    - neighbourhoods_Queens_Belle Harbor
+    - neighbourhoods_Queens_Bellerose
+    - neighbourhoods_Queens_Briarwood
+    - neighbourhoods_Queens_Cambria Heights
+    - neighbourhoods_Queens_College Point
+    - neighbourhoods_Queens_Corona
+    - neighbourhoods_Queens_Ditmars Steinway
+    - neighbourhoods_Queens_Douglaston
+    - neighbourhoods_Queens_East Elmhurst
+    - neighbourhoods_Queens_Edgemere
+    - neighbourhoods_Queens_Elmhurst
+    - neighbourhoods_Queens_Far Rockaway
+    - neighbourhoods_Queens_Flushing
+    - neighbourhoods_Queens_Forest Hills
+    - neighbourhoods_Queens_Fresh Meadows
+    - neighbourhoods_Queens_Glendale
+    - neighbourhoods_Queens_Hollis
+    - neighbourhoods_Queens_Holliswood
+    - neighbourhoods_Queens_Howard Beach
+    - neighbourhoods_Queens_Jackson Heights
+    - neighbourhoods_Queens_Jamaica
+    - neighbourhoods_Queens_Jamaica Estates
+    - neighbourhoods_Queens_Jamaica Hills
+    - neighbourhoods_Queens_Kew Gardens
+    - neighbourhoods_Queens_Kew Gardens Hills
+    - neighbourhoods_Queens_Laurelton
+    - neighbourhoods_Queens_Little Neck
+    - neighbourhoods_Queens_Long Island City
+    - neighbourhoods_Queens_Maspeth
+    - neighbourhoods_Queens_Middle Village
+    - neighbourhoods_Queens_Neponsit
+    - neighbourhoods_Queens_Ozone Park
+    - neighbourhoods_Queens_Queens Village
+    - neighbourhoods_Queens_Rego Park
+    - neighbourhoods_Queens_Richmond Hill
+    - neighbourhoods_Queens_Ridgewood
+    - neighbourhoods_Queens_Rockaway Beach
+    - neighbourhoods_Queens_Rosedale
+    - neighbourhoods_Queens_South Ozone Park
+    - neighbourhoods_Queens_Springfield Gardens
+    - neighbourhoods_Queens_St. Albans
+    - neighbourhoods_Queens_Sunnyside
+    - neighbourhoods_Queens_Whitestone
+    - neighbourhoods_Queens_Woodhaven
+    - neighbourhoods_Queens_Woodside
+    - neighbourhoods_Staten Island_Arden Heights
+    - neighbourhoods_Staten Island_Arrochar
+    - neighbourhoods_Staten Island_Bay Terrace, Staten Island
+    - neighbourhoods_Staten Island_Bull's Head
+    - neighbourhoods_Staten Island_Castleton Corners
+    - neighbourhoods_Staten Island_Clifton
+    - neighbourhoods_Staten Island_Concord
+    - neighbourhoods_Staten Island_Dongan Hills
+    - neighbourhoods_Staten Island_Eltingville
+    - neighbourhoods_Staten Island_Emerson Hill
+    - neighbourhoods_Staten Island_Graniteville
+    - neighbourhoods_Staten Island_Grant City
+    - neighbourhoods_Staten Island_Great Kills
+    - neighbourhoods_Staten Island_Grymes Hill
+    - neighbourhoods_Staten Island_Howland Hook
+    - neighbourhoods_Staten Island_Huguenot
+    - neighbourhoods_Staten Island_Lighthouse Hill
+    - neighbourhoods_Staten Island_Mariners Harbor
+    - neighbourhoods_Staten Island_Midland Beach
+    - neighbourhoods_Staten Island_New Brighton
+    - neighbourhoods_Staten Island_New Dorp Beach
+    - neighbourhoods_Staten Island_New Springville
+    - neighbourhoods_Staten Island_Oakwood
+    - neighbourhoods_Staten Island_Port Richmond
+    - neighbourhoods_Staten Island_Prince's Bay
+    - neighbourhoods_Staten Island_Randall Manor
+    - neighbourhoods_Staten Island_Richmondtown
+    - neighbourhoods_Staten Island_Rosebank
+    - neighbourhoods_Staten Island_Rossville
+    - neighbourhoods_Staten Island_Shore Acres
+    - neighbourhoods_Staten Island_Silver Lake
+    - neighbourhoods_Staten Island_South Beach
+    - neighbourhoods_Staten Island_St. George
+    - neighbourhoods_Staten Island_Stapleton
+    - neighbourhoods_Staten Island_Todt Hill
+    - neighbourhoods_Staten Island_Tompkinsville
+    - neighbourhoods_Staten Island_Tottenville
+    - neighbourhoods_Staten Island_West Brighton
+    - neighbourhoods_Staten Island_Westerleigh
+  name: NYC_Airbnb_log_price_model
+  parameters:
+    depth: 10
+    iterations: 200
+    learning_rate: 0.1
+  target_variable: log_price
+  test_metrics_log_scale:
+    mae: 0.22259172434619595
+    mse: 0.08140915259587383
+    r2: 0.7048611270906232
+    rmse: 0.2853228918188547
+  validation_metrics:
+    mae: 0.22208533380691073
+    mse: 0.08135101038551049
+    r2: 0.706235445875629
+    rmse: 0.2852209851773016

@@ -1,0 +1,74 @@
+name: MLOps CI Workflow
+#events
+on:
+  workflow_dispatch: {}
+#Jobs
+jobs:
+  e2e_mlops_workflow:
+    runs-on: ubuntu-latest # runner environment
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # Actions (we may look more on github.com/marketplace) for other actions
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10.19" # specify the Python version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Data Processing
+        run: |
+          python src/data/processor.py \ 
+            --input data/raw/AB_NYC_2019.csv \
+            --output data/processed/AB_NYC_2019_cleaned.csv
+
+      - name: Run Feature Engineering
+        run: |
+          python src/features/engineer.py \
+            --input data/processed/AB_NYC_2019_cleaned.csv \
+            --output data/processed/AB_NYC_2019_feature_engineered.csv \
+            --preprocessor models/trained/preprocessor.pkl
+
+      - name: Setup MLFow
+        run: |
+          docker pull ghrc.io/mlflow/mlflow:latest
+          docker run -d -p 5001:5000 -name mlfow-server ghrc.io/mlflow/mlflow:latest \
+            mlflow server --backend-store-uri sqlite:///mlflow.db \ 
+            --default-artifact-root ./mlruns \
+            --host 0.0.0.0 --port 5001
+
+      - name: Run Model Training
+        run: |
+          python src/models/train_model.py \
+          --config configs/model_config.yaml \ 
+          --data data/processed/AB_NYC_2019_feature_engineered.csv \
+          --models-dir models \   
+          --mlflow-tracking-uri http://localhost:5001
+
+      - name: Cleaning up MLFlow
+        run: |
+          docker stop mlflow-server
+          docker rm mlflow-server
+          docker rmi ghrc.io/mlflow/mlflow:latest
+
+      - name: Login to Docker Hub
+        uses: docker/build-push-action@v6
+        with:
+          username: ${{vars.DOCKERHUB_USERNAME}}
+          password: ${{secrets.DOCKERHUB_TOKEN}}
+
+      - name: Setup Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          push: true
+          tags: user/app:melvinmaria/fastapi:{{github.sha}}
+          context: "."
+          file: "dockerfile"

@@ -1,0 +1,7 @@
+# .dockerignore
+__pycache__/
+.ipynb_checkpoints/
+.git/
+.env
+venv/
+*.ipynb
