@@ -40,7 +40,7 @@ jobs:
           docker run -d -p 5001:5000 --name mlflow-server ghcr.io/mlflow/mlflow:latest\
             mlflow server --host 0.0.0.0\
             --backend-store-uri sqlite:///mlflow.db\ 
-            mlflow server --default-artifact-root ./mlruns
+            mlflow server --default-artifact-root /tmp/mlruns
 
       - name: Run Model Training
         run: |
