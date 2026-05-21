@@ -37,7 +37,6 @@ jobs:
       - name: Setup MLFow
         run: |
           docker pull ghcr.io/mlflow/mlflow:latest
-          docker rm -f mlflow-server 2>/dev/null || true
           docker run -d -p 5001:5000 --name mlflow-server ghcr.io/mlflow/mlflow:latest\
             mlflow server --backend-store-uri sqlite:///mlflow.db\ 
             mlflow server --default-artifact-root ./mlruns\
