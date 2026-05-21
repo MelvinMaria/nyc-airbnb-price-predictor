@@ -37,7 +37,7 @@ jobs:
       - name: Setup MLFow
         run: |
           docker pull ghrc.io/mlflow/mlflow:latest
-          docker run -d -p 5001:5000 --name mlfow-server ghrc.io/mlflow/mlflow:latest\
+          docker run -d -p 5001:5000 --name mlfow-server ghcr.io/mlflow/mlflow:latest\
             mlflow server --backend-store-uri sqlite:///mlflow.db\ 
             --default-artifact-root ./mlruns\
             --host 0.0.0.0 --port 5001
@@ -54,7 +54,7 @@ jobs:
         run: |
           docker stop mlflow-server
           docker rm mlflow-server
-          docker rmi ghrc.io/mlflow/mlflow:latest
+          docker rmi ghcr.io/mlflow/mlflow:latest
 
       - name: Login to Docker Hub
         uses: docker/build-push-action@v6
