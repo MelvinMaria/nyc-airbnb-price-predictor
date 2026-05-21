@@ -47,10 +47,10 @@ jobs:
       - name: Run Model Training
         run: |
           python src/models/train_model.py\
-          --config configs/model_config.yaml\ 
-          --data data/processed/AB_NYC_2019_feature_engineered.csv\
-          --models-dir models\   
-          --mlflow-tracking-uri http://localhost:5001
+              --config configs/model_config.yaml\ 
+              --data data/processed/AB_NYC_2019_feature_engineered.csv\
+              --models-dir models\   
+              --mlflow-tracking-uri http://localhost:5001
 
       - name: Cleaning up MLFlow
         run: |
